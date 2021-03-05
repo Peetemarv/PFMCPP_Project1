@@ -56,81 +56,81 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 //  action 1:   sending call
 phone.sendingCall();
 //  action 2:   receving call
-phone.recevingCall
+phone.recevingCall();
 //  action 3:   taking picture
-phone.takingPicture
+phone.takingPicture();
 //  2)
 //  Noun:       computer
 //  action 1:   activates wifi
-computer.activateWifi
+computer.activateWifi();
 //  action 2:   laoding
-computer.loading
+computer.loading();
 //  action 3:   shuts down
-computer.shutdown
+computer.shutdown();
 //  3)
 //  Noun:       washing machine
 //  action 1:   washing
-washer.washing
+washer.washing();
 //  action 2:   taking hot water
-washer.takingHotWater
+washer.takingHotWater();
 //  action 3:   taking cold water
-washer.takingColdWater 
+washer.takingColdWater();
 //  4)         
 //  Noun:       traffic light
 //  action 1:   turns green
-trafficLight.turnsGreen
+trafficLight.turnsGreen();
 //  action 2:   turns yellow
-trafficLight.turnsYellow
+trafficLight.turnsYellow();
 //  action 3:   turns red
-trafficLight.turnsRed
+trafficLight.turnsRed();
 //  5)         
 //  Noun:       midi keyboard
 //  action 1:   receiving midi signal
-midiKeyboard.recevingMidiSignal
+midiKeyboard.recevingMidiSignal();
 //  action 2:   sending midi signal
-midiKeyboard.sendingMidiSignal
+midiKeyboard.sendingMidiSignal();
 //  action 3:   shows CC  
-midiKeyboard.showCc 
+midiKeyboard.showCc();
 //  6)         
 //  Noun:      microwave
 //  action 1:  turns on fan
-microwave.turnOnFan
+microwave.turnOnFan();
 //  action 2:  turns off fan
-microwave.turnOffFan
+microwave.turnOffFan();
 //  action 3:  plays 5 beeps 
-microwave.playsFiveBeeps 
+microwave.playsFiveBeeps(); 
 //  7)         
 //  Noun:      plane
 //  action 1:  taking off
-plane.takingOff
+plane.takingOff();
 //  action 2:  landing
-plane.landing
+plane.landing();
 //  action 3:  slowing down
-plane.slowingDown 
+plane.slowingDown();
 //  8)         
 //  Noun:      camera
 //  action 1:  zooming in
-camera.zoomingIn
+camera.zoomingIn();
 //  action 2:  zooming out
-camera.zoomingOut
+camera.zoomingOut();
 //  action 3:  recording
-camera.recording 
+camera.recording();
 //  9)        
 //  Noun:      boat
 //  action 1:  moving foward
-boat.movingFoward
+boat.movingFoward();
 //  action 2:  moving backward
-boat.movingbackward
+boat.movingbackward();
 //  action 3:  going fast
-boat.goingFast 
+boat.goingFast(); 
 //  10)       
 //  Noun:      television
 //  action 1:  showing Netflix menu
-television.showingNetflixMenu
+television.showingNetflixMenu();
 //  action 2:  showing Prime menu
-television.showingPrimeMenu
+television.showingPrimeMenu();
 //  action 3:  showing YouTube app
-television.showingYoutubeApp
+television.showingYoutubeApp();
 
 
 #endif
