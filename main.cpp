@@ -84,13 +84,13 @@ trafficLight.turnsYellow();
 //  action 3:   turns red
 trafficLight.turnsRed();
 //  5)         
-//  Noun:       midi keyboard
-//  action 1:   receiving midi signal
-midiKeyboard.recevingMidiSignal();
-//  action 2:   sending midi signal
-midiKeyboard.sendingMidiSignal();
-//  action 3:   shows CC  
-midiKeyboard.showCc();
+//  Noun:       headphone Set
+//  action 1:   turn up volume
+headphoneSet.turnUpVolume();
+//  action 2:   turn down volume
+headphoneSet.turnDownVolume();
+//  action 3:   enable noise cancellation  
+headphoneSet.enableNoiseCancellation();
 //  6)         
 //  Noun:      microwave
 //  action 1:  turns on fan
