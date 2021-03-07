@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       phone
+//  action 1:   sending call
+phone.sendingCall();
+//  action 2:   receving call
+phone.recevingCall();
+//  action 3:   taking picture
+phone.takingPicture();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       computer
+//  action 1:   activates wifi
+computer.activateWifi();
+//  action 2:   laoding
+computer.loading();
+//  action 3:   shuts down
+computer.shutdown();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       washing machine
+//  action 1:   washing
+washer.washing();
+//  action 2:   taking hot water
+washer.takingHotWater();
+//  action 3:   taking cold water
+washer.takingColdWater();
+//  4)         
+//  Noun:       traffic light
+//  action 1:   turns green
+trafficLight.turnsGreen();
+//  action 2:   turns yellow
+trafficLight.turnsYellow();
+//  action 3:   turns red
+trafficLight.turnsRed();
+//  5)         
+//  Noun:       headphone Set
+//  action 1:   turn up volume
+headphoneSet.turnUpVolume();
+//  action 2:   turn down volume
+headphoneSet.turnDownVolume();
+//  action 3:   enable noise cancellation  
+headphoneSet.enableNoiseCancellation();
+//  6)         
+//  Noun:      microwave
+//  action 1:  turns on fan
+microwave.turnOnFan();
+//  action 2:  turns off fan
+microwave.turnOffFan();
+//  action 3:  plays 5 beeps 
+microwave.playsFiveBeeps(); 
+//  7)         
+//  Noun:      plane
+//  action 1:  taking off
+plane.takingOff();
+//  action 2:  landing
+plane.landing();
+//  action 3:  slowing down
+plane.slowingDown();
+//  8)         
+//  Noun:      camera
+//  action 1:  zooming in
+camera.zoomingIn();
+//  action 2:  zooming out
+camera.zoomingOut();
+//  action 3:  recording
+camera.recording();
+//  9)        
+//  Noun:      boat
+//  action 1:  moving foward
+boat.movingFoward();
+//  action 2:  moving backward
+boat.movingbackward();
+//  action 3:  going fast
+boat.goingFast(); 
+//  10)       
+//  Noun:      television
+//  action 1:  showing Netflix menu
+television.showingNetflixMenu();
+//  action 2:  showing Prime menu
+television.showingPrimeMenu();
+//  action 3:  showing YouTube app
+television.showingYoutubeApp();
 
 
 #endif
